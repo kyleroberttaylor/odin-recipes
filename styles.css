@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(120, 214, 106);
+}
+
+li {
+    list-style: none;
+    margin-top: 15px;
+    background-color: lightblue;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+h1, li {
+    text-align: center;
+}
+
+li img{
+    height: 150px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    
+}
+a:link {
+    color: rgb(14, 99, 245);
+}
+
+a:visited {
+    color: rgb(98, 8, 214);
+}
