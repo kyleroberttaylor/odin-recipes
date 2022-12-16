@@ -19,9 +19,10 @@ ul {
 }
 
 li {
+    width: 500px;
+    height: 500px;
     background-color: tan;
-    border-radius: 5%;
-    width: 50%;
+    border-radius: 10%;
     margin: 16px auto;
 }
 
